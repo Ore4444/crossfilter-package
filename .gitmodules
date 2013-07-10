@@ -1,0 +1,3 @@
+[submodule "crossfilter"]
+	path = crossfilter
+	url = https://github.com/square/crossfilter.git

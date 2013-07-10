@@ -1,0 +1,8 @@
+{
+  "name": "Crossfilter",
+  "description": "Fast n-dimensional filtering and grouping of records.",
+  "homepage": "http://square.github.com/crossfilter/",
+  "author": "Mike Bostock <http://bost.ocks.org/mike?",
+  "version": "0.0.1",
+  "git": ""
+}
