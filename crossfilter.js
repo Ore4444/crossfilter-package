@@ -1,1 +1,1 @@
-crossfilter = Npm.require('crossfilter');
+crossfilter = Meteor.require('crossfilter');
