@@ -1,0 +1,1 @@
+crossfilter = Npm.require('crossfilter');
